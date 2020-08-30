@@ -1,0 +1,9 @@
+*.xcodeproj/project.xcworkspace
+*.xcodeproj/xcuserdata
+*.xcworkspace/xcuserdata
+Pods/Pods.xcodeproj/xcuserdata
+Pods/Pods.xcodeproj/project.xcworkspace
+.idea
+pods/
+*.lock
+IDEWorkspaceChecks.plist
